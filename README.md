@@ -113,7 +113,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.fenjuly:ToggleExpandLayout:774e497692'
+    compile 'com.github.fenjuly:ToggleExpandLayout:4388a56'
 }
 ```
   
